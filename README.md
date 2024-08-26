@@ -1,10 +1,14 @@
 # YouTube MP3 Downloader
 # This does not work due to Pytube no longer working.
-A Python application to download videos or playlists from YouTube in mp3 format.
+A Python GUI application to download videos or playlists from YouTube in mp3 format.
 ## Functionality
 - YouTube Video to MP3
+  - Includes a bitrate selector
+  - Includes a text based queue for downloads
 - YouTube Playlist to MP3
   - Will download single video links
+  - Includes a bitrate selector
+  - Includes a text based queue for downloads
 - Video Download History Viewer
 - Download Directory/Path Setter
 ## Important
