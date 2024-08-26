@@ -1,5 +1,6 @@
+# This does not work due to Pytube and Pytubefix no longer working.
+At some point I'll try to either get it fixed by switching to a different library or waiting for another update to Pytube.
 # YouTube MP3 Downloader
-# This does not work due to Pytube no longer working.
 A Python GUI application to download videos or playlists from YouTube in mp3 format.
 ## Functionality
 - YouTube Video to MP3
