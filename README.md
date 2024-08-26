@@ -1,4 +1,4 @@
-# YouTube-MP3-Downloader
+# YouTube MP3 Downloader
 # This does not work due to Pytube no longer working.
 A Python application to download videos or playlists from YouTube in mp3 format.
 ## Functionality
